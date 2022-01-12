@@ -1,6 +1,4 @@
 # FRAMEWORK DE PRUEBAS
-## Dependencias:
-+ JAVA: 11
 ## Index
 1. Introduccion
 2. Alcance
@@ -31,6 +29,7 @@ de los componentes de la interfaz de usuario necesarios para las pruebas. De est
 + Testng: 6.14.3
 ### 5. Ambiente del sistema
 + S.O: WINDOWS 10
++ JAVA 11
 + ChromeDriver: Version 97.0.4692.71 (64-bit)
 + FirefoxDriver: 95.0.2 (64-bit)
 ### 6. Test Report
